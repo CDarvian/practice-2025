@@ -34,6 +34,7 @@ go.work
 # Generated files by hugo
 /public/
 /resources/_gen/
+*/_gen/
 /assets/jsconfig.json
 hugo_stats.json
 
