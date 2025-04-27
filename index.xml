@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Главная on Инфографика для популяризации свободного ПО</title>
-    <link>http://example.org/</link>
+    <link>https://cdarvian.github.io/practice-2025/</link>
     <description>Recent content in Главная on Инфографика для популяризации свободного ПО</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cdarvian.github.io/practice-2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Актуальная диаграмма Ганта за 2025 год</title>
-      <link>http://example.org/journal/2025-04-27-gant_diag/</link>
+      <link>https://cdarvian.github.io/practice-2025/journal/2025-04-27-gant_diag/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/journal/2025-04-27-gant_diag/</guid>
+      <guid>https://cdarvian.github.io/practice-2025/journal/2025-04-27-gant_diag/</guid>
       <description>Вставка из презентации проекта актуальной диаграммы Ганта</description>
     </item>
     <item>
       <title>Актуальная дорожная карта за 2025 год</title>
-      <link>http://example.org/journal/2025-04-27-road_map/</link>
+      <link>https://cdarvian.github.io/practice-2025/journal/2025-04-27-road_map/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/journal/2025-04-27-road_map/</guid>
+      <guid>https://cdarvian.github.io/practice-2025/journal/2025-04-27-road_map/</guid>
       <description>Вставка из презентации проекта актуальной дорожной карты проекта</description>
     </item>
     <item>
       <title>Прототип страниц для GIMP</title>
-      <link>http://example.org/journal/2025-04-27-prototype_gimp/</link>
+      <link>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_gimp/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/journal/2025-04-27-prototype_gimp/</guid>
+      <guid>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_gimp/</guid>
       <description>Завершение прототипирования страниц для главы про GIMP</description>
     </item>
     <item>
       <title>Прототип страниц для офисных пакетов</title>
-      <link>http://example.org/journal/2025-04-27-prototype_office/</link>
+      <link>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_office/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/journal/2025-04-27-prototype_office/</guid>
+      <guid>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_office/</guid>
       <description>Завершение прототипирования страниц для главы про офисные пакеты</description>
     </item>
     <item>
       <title>Прототип страниц с браузерами</title>
-      <link>http://example.org/journal/2025-04-27-prototype_browsers/</link>
+      <link>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_browsers/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/journal/2025-04-27-prototype_browsers/</guid>
+      <guid>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_browsers/</guid>
       <description>Завершение прототипирования страниц для главы про браузеры</description>
     </item>
     <item>
       <title>Прототип страниц с введением</title>
-      <link>http://example.org/journal/2025-04-27-prototype_intro/</link>
+      <link>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_intro/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/journal/2025-04-27-prototype_intro/</guid>
+      <guid>https://cdarvian.github.io/practice-2025/journal/2025-04-27-prototype_intro/</guid>
       <description>Завершение прототипирования страниц для введения в СПО</description>
     </item>
   </channel>
