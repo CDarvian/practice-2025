@@ -1,4 +1,6 @@
 baseURL = "https://cdarvian.github.io/practice-2025/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "ru-ru"
 title = "Инфографика для популяризации свободного ПО"
 theme = "ananke"
