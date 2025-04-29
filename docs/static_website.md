@@ -35,3 +35,13 @@
 - [Добавил медиа к будущим статьям к журналу](https://github.com/CDarvian/practice-2025/commit/583a0e5e8b9f0f29243c38969b4d1c71dfe99af1);
 - [Обновил все статьи на сайте](https://github.com/CDarvian/practice-2025/commit/614a1688a0d003cfe59491785525c00b94f2a8ed);
 - [Fix на главной странице](https://github.com/CDarvian/practice-2025/commit/77ede1d5a901170645ff00b7fe3d15de75fe512b);
+
+## Публикация сайта на GitHub Pages
+В течение 27 апреля также была собрана итоговая версия сайта и выложена на отдельную ветку gh-pages, в итоге сайт 
+выложен в сеть.
+
+**Это отражено в следующих коммитах:**
+- [Обновил конфиг hugo под gh pages](https://github.com/CDarvian/practice-2025/commit/68c658629e0f71cca24abc899d7beadc58e52bee);
+- [config update](https://github.com/CDarvian/practice-2025/commit/187b71e0cecef4454a875f8a8429b1e11aaac483);
+- [config.toml update](https://github.com/CDarvian/practice-2025/commit/6cdf4a9569b5d406f57f1c8c7b85a3760a0d91ba);
+- [site patch](https://github.com/CDarvian/practice-2025/commit/f50ac9985cddb4ef9948478a3dbd2e0a4cc774d7);
