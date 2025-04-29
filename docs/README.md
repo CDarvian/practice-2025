@@ -44,4 +44,5 @@ ___
 - [Сайт](https://github.com/CDarvian/practice-2025/commit/f836ccc2971bb60d2c6b165fc0fa1be5c1128605) (29 апреля)
 - [Сайт (дополнение)](https://github.com/CDarvian/practice-2025/commit/de3816e670dea9aaf004d503142c1ef8577ff3d3) 
 (29 апреля)
-- Организация-партнер (30 апреля)
+- [Организация-партнер](https://github.com/CDarvian/practice-2025/commit/a3701b03b024d32da55a7e51c30d9ef834bbce03) 
+(30 апреля)
