@@ -46,6 +46,7 @@ ___
 (29 апреля)
 - [Организация-партнер](https://github.com/CDarvian/practice-2025/commit/a3701b03b024d32da55a7e51c30d9ef834bbce03) 
 (30 апреля)
+- [Индивидуальное кафедральное задание](https://github.com/CDarvian/practice-2025/commit/85e7dde03cdbd499cd991ed1171abc031fbe133b) (30 апреля)
 
 ___
 
